@@ -1,0 +1,43 @@
+Name: Zejun Liu
+USC ID: 6992071555
+News site crawled: foxnews.com
+
+Fetch Statistics
+================
+# fetches attempted:20000
+# fetches succeeded:19111
+# fetches failed or aborted:889
+
+Outgoing URLs:
+==============
+Total URLs extracted:2168842
+# unique URLs extracted:120228
+# unique URLs within News Site:33987
+# unique URLs outside News Site:86241
+
+Status Codes:
+=============
+200 OK:19111
+410 Gone:1
+301 Moved Permanently:789
+422 Unknown HTTP Status Code:8
+400 Bad Request:1
+302 Found:14
+404 Not Found:74
+503 Service Unavailable:2
+
+File Sizes:
+===========
+>= 1MB:15
+< 1KB:11
+1KB ~ <10KB:260
+100KB ~ <1MB:361
+10KB ~ <100KB:18464
+
+Content Types:
+==============
+image/png:121
+text/html:18506
+image/jpeg:464
+application/pdf:2
+image/gif:17
